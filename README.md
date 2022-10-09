@@ -66,9 +66,8 @@ http://localhost:8080/
 <div className="Chip-root makeStyles-chipBlue-108 Chip-clickable">
             <span
               onClick={}
-              className="form-Chip-label"
-            >
-              Sell
+              className="form-Chip-label">
+                 Sell
             </span>
             </div>
 ```
@@ -77,7 +76,7 @@ http://localhost:8080/
 
 ```
 <input
-        placeholder="Price in DANG"
+        placeholder="Price in RAB"
         type="number"
         className="price-input"
         value={}
